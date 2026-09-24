@@ -1,0 +1,207 @@
+{
+  "domain": "salakcravings",
+  "niche": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+  "design_concept": "Editorial Monolith & Asymmetric Showcase",
+  "archetype_id": "editorial_monolith",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "almond_ice_cream_cone.jpg",
+      "size_kb": 57.19,
+      "md5": "6a4f32018ff1b9f91d76ee0ba4f76279",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "almond_praline_gelato_dessert.jpg",
+      "size_kb": 117.46,
+      "md5": "ee885566ac08a015f85500e3fb3c662f",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "artisan_pantry_nut_flour_almonds.jpg",
+      "size_kb": 275.87,
+      "md5": "340ced9c5d39e94d45daabd6d430b3a2",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "artisan_sandwich_snack.jpg",
+      "size_kb": 185.6,
+      "md5": "8f308d360011d9bfb4a0edc40be5d127",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "artisanal_gastronomy_bowl.jpg",
+      "size_kb": 263.58,
+      "md5": "77d024facefdcd15ebfaa46030169dbe",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "berry_almond_dessert_cake.jpg",
+      "size_kb": 113.22,
+      "md5": "874b5839711c53a131bc0e94f7a53e4c",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "candlelit_aromatics_table.jpg",
+      "size_kb": 219.06,
+      "md5": "a46d2062149127a2ef42133bfb8d0bf2",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "crisp_almond_croissant_breakfast.jpg",
+      "size_kb": 147.38,
+      "md5": "5248f5f638a60603f26be85e4c9e0010",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "executive_chef_pass_service.jpg",
+      "size_kb": 148.93,
+      "md5": "5dd91d25e81a6e3c0443d9ad849b649a",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "family_harvest_table_almonds.jpg",
+      "size_kb": 314.11,
+      "md5": "fba8516b877a973a3869487501008e82",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "flaked_almond_patisserie_tart.jpg",
+      "size_kb": 115.98,
+      "md5": "579edf97fc6863128fc1d5c50294de3a",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "fresh_culinary_orchard_harvest.jpg",
+      "size_kb": 157.34,
+      "md5": "79dd46ebe02697f23a77d14f7e163f8d",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "gourmet_almond_snack_spread.jpg",
+      "size_kb": 96.79,
+      "md5": "003de16e166091330dffc1dde4fa275a",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "gourmet_morning_breakfast_platter.jpg",
+      "size_kb": 256.9,
+      "md5": "dc5bb584a1ade45ad1a8cb42ea9b98b4",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "gourmet_skewer_plating.jpg",
+      "size_kb": 230.6,
+      "md5": "9d51cb7a6ffee280315f6a3dedc5b365",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "healthy_food_snack_salad.jpg",
+      "size_kb": 69.01,
+      "md5": "dbb9c6860d0dfc0ae6558f846a7e95e5",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "heirloom_tomatoes_roasted_almonds.jpg",
+      "size_kb": 209.06,
+      "md5": "801164e8a03e35dc6e238384361c0018",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "honey_glazed_roasted_almond_crunch.jpg",
+      "size_kb": 180.38,
+      "md5": "5102ff32f9f380f4d00c72d507da78ec",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "organic_whole_almonds_ceramic_bowl.jpg",
+      "size_kb": 231.76,
+      "md5": "4a88d418dc10dffb137e98b5cb658a35",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "roastery_espresso_almond_biscotti.jpg",
+      "size_kb": 118.02,
+      "md5": "6415a498341ad5f729059e895dc78a40",
+      "description": "Artisanal Salak Cravings & Botanical Fruit Gastronomy",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://salakcravings.com/sitemap.xml",
+    "robots": "https://salakcravings.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
